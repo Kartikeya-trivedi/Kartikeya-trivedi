@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics and machine learning
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on projects on kaggle
-- 📫 How to reach me via my linkedin
+- 📫 you can reach me via my linkedin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: "I once debugged a project so thoroughly that the bugs started sending thank-you notes!"
 
