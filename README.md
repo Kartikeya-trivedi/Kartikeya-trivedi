@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kartikeya-trivedi
 - 👀 I’m interested in data analytics and machine learning
 - 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on projects on kaggle
+- 💞️ I’m looking to collaborate on projects 
 - 📫 you can reach me via my linkedin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: "I once debugged a project so thoroughly that the bugs started sending thank-you notes!"
