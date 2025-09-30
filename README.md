@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=Kartikeya%20Trivedi&fontSize=48&fontAlign=50&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220animation=fadeIn" />
 </p>
 
 <div align="center">
