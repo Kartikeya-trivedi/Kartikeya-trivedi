@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=Kartikeya%20Trivedi&fontSize=48&fontAlign=50&fontAlignY=35&animation=fadeIn" />
+</p>
+
 <div align="center">
 
 <h1>⚡️ Kartikeya Trivedi</h1>
@@ -5,11 +9,17 @@
 <strong>AI Engineer • Agentic Systems • Realtime GenAI • MLOps</strong>
 
 <br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+realtime+AI+agents+%26+developer+tools;FastAPI+%7C+Agno+%7C+PyTorch+%7C+FFmpeg;Streaming+UX+%7C+Vector+context+%7C+Media+pipelines" />
+
+<br/>
 
 <a href="mailto:kartikeyatrivedi@outlook.com">📧 Email</a> · 
 <a href="https://www.linkedin.com/in/kartikeyatrivedi">💼 LinkedIn</a> · 
 <a href="https://github.com/Kartikeya-trivedi">🐙 GitHub</a> · 
 📍 Lucknow, India · ☎︎ +91 8957907776
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Kartikeya-trivedi&style=flat-square&color=blue" alt="profile views" />
 
 </div>
 
@@ -65,11 +75,33 @@
 
 ---
 
+### 🏅 Trophies
+
+<div align="left">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kartikeya-trivedi&theme=onedark&no-frame=true&row=1&column=6" />
+
+</div>
+
 ### 📊 GitHub Stats
 
 <div align="left">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kartikeya-trivedi&show_icons=true&theme=radical&hide_title=true" />
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikeya-trivedi&theme=radical" />
+
+</div>
+
+<div align="left">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikeya-trivedi&layout=compact&theme=radical&hide_title=true" />
+
+</div>
+
+### 📈 Activity Graph
+
+<div align="left">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikeya-trivedi&theme=react-dark&hide_border=true" />
 
 </div>
