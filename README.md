@@ -25,6 +25,14 @@
 
 ---
 
+<p align="center">
+  <a href="mailto:kartikeyatrivedi@outlook.com"><img src="https://img.shields.io/badge/Contact-Email-0A66C2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kartikeyatrivedi"><img src="https://img.shields.io/badge/Follow-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Kartikeya-trivedi"><img src="https://img.shields.io/badge/Star-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/github/followers/Kartikeya-trivedi?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Kartikeya-trivedi?style=for-the-badge&logo=github&label=Stars" />
+</p>
+
 ### 🔥 Building Now
 
 - **CodeShiftAI** — VS Code + FastAPI + Agno agent for realtime, context-aware coding; WebSocket streaming, vector context, incremental parsing.
@@ -60,6 +68,54 @@
 - Secured a **$500 Modal grant** + **$30/month** credits for scalable AI infra.
 - **Hackathon Winner** with Professor Peter (FastAPI + FFmpeg + ElevenLabs TTS).
 - Ran ML workshop on **Agno agent framework** and hosted "Captcha the Impostor" event.
+
+### 💎 Featured Projects
+
+<details>
+<summary><b>CodeShiftAI</b> — Realtime AI coding assistant (VS Code • FastAPI • Agno)</summary>
+
+- WebSocket streaming suggestions with incremental parsing for lightning-fast UX
+- Vector-based context retrieval for multi-file awareness and smarter completions
+- Agentic reasoning via Agno for task routing and code transformations
+
+<div>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agno-2D2D2D?logo=autonomous&logoColor=white&label=Agentic" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+</div>
+
+</details>
+
+<details>
+<summary><b>Professor Peter</b> — AI video educator (FastAPI • FFmpeg • ElevenLabs)</summary>
+
+- Text-to-video engine with real-time lip-sync via FFmpeg filters
+- Natural narration using ElevenLabs TTS; hackathon-winning project
+- Clean REST APIs for content submission and orchestration
+
+<div>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElevenLabs-TTS-111111" />
+</div>
+
+</details>
+
+<details>
+<summary><b>ForgeTube</b> — Script‑to‑video pipeline (SD prompts • FFmpeg • Kokoro TTS)</summary>
+
+- LLM script segmentation → Stable Diffusion prompt generation per scene
+- FFmpeg scene stitching with precise audio alignment
+- Automated MP4 rendering ready for YouTube
+
+<div>
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-222222?logo=stable%20diffusion&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kokoro-TTS-222222" />
+</div>
+
+</details>
 
 ### 🚀 Highlights
 
@@ -105,3 +161,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikeya-trivedi&theme=react-dark&hide_border=true" />
 
 </div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer" />
+</p>
