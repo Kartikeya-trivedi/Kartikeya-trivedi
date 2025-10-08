@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=Kartikeya%20Trivedi&fontSize=48&fontAlign=50&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header" />
 </p>
 
 <div align="center">
@@ -16,6 +16,7 @@
 <a href="mailto:kartikeyatrivedi@outlook.com">📧 Email</a> · 
 <a href="https://www.linkedin.com/in/kartikeyatrivedi">💼 LinkedIn</a> · 
 <a href="https://github.com/Kartikeya-trivedi">🐙 GitHub</a> · 
+<a href="https://kartikeya.me">🌐 Website</a> · 
 📍 Lucknow, India · ☎︎ +91 8957907776
 
 <br/>
@@ -29,6 +30,7 @@
   <a href="mailto:kartikeyatrivedi@outlook.com"><img src="https://img.shields.io/badge/Contact-Email-0A66C2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kartikeyatrivedi"><img src="https://img.shields.io/badge/Follow-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Kartikeya-trivedi"><img src="https://img.shields.io/badge/Star-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://kartikeya.me"><img src="https://img.shields.io/badge/Visit-Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <img src="https://img.shields.io/github/followers/Kartikeya-trivedi?style=for-the-badge&logo=github&label=Followers" />
   <img src="https://img.shields.io/github/stars/Kartikeya-trivedi?style=for-the-badge&logo=github&label=Stars" />
 </p>
@@ -128,6 +130,7 @@
 - Email: [kartikeyatrivedi@outlook.com](mailto:kartikeyatrivedi@outlook.com)
 - LinkedIn: [linkedin.com/in/kartikeyatrivedi](https://www.linkedin.com/in/kartikeyatrivedi)
 - GitHub: [github.com/Kartikeya-trivedi](https://github.com/Kartikeya-trivedi)
+- Website: [kartikeya.me](https://kartikeya.me)
 
 ---
 
