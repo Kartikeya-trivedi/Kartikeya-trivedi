@@ -16,6 +16,7 @@
 
 <img src="https://img.shields.io/badge/%F0%9F%93%8D-Lucknow%2C%20India-0f172a?style=flat-square" alt="Location" />
 <img src="https://img.shields.io/badge/%F0%9F%8F%A2-mindrix-0f172a?style=flat-square" alt="Org" />
+<img src="https://img.shields.io/badge/%F0%9F%92%BC-AI%20Intern%20%40%20JD%20Jones-1e40af?style=flat-square" alt="AI Intern at JD Jones" />
 <img src="https://komarev.com/ghpvc/?username=Kartikeya-trivedi&label=Profile%20views&color=22d3ee&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Kartikeya-trivedi?label=Followers&style=flat-square&color=22d3ee&logo=github" alt="Followers" />
 
@@ -149,11 +150,10 @@ WebSocket streaming suggestions, vector-based context retrieval, incremental par
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [Professor Peter](https://github.com/Kartikeya-trivedi/professorpeter) &nbsp;🏆
-**AI video educator** — *hackathon-winning project.*
-FastAPI orchestrating FFmpeg lip-sync with ElevenLabs TTS narration to generate explainer videos.
+### 🎨 [Showkase](https://github.com/Kartikeya-trivedi/showkase-v1)
+**AI-powered portfolio generator.** A multi-agent backend (Orchestrator → Planner → Coder) turns your profile into a fully custom React site — with live Sandpack preview and one-click Vercel deploy.
 
-<sub>`Python` · `FastAPI` · `FFmpeg` · `ElevenLabs TTS`</sub>
+<sub>`React` · `FastAPI` · `Agno` · `Supabase`</sub>
 
 </td>
 </tr>
@@ -194,6 +194,25 @@ LLM script segmentation → Stable Diffusion image prompts → Kokoro TTS → FF
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [MediQuery](https://github.com/Kartikeya-trivedi/MediQuery)
+**Clinical RAG decision-support system.** Hybrid BM25 + Qdrant retrieval, cost-aware dual-model inference via vLLM, Redis semantic caching, and NLI faithfulness checks for hallucination-resistant EHR analysis. &nbsp;[Live demo →](https://mediquery.kartikeya.me/)
+
+<sub>`FastAPI` · `React` · `vLLM` · `Qdrant`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 [Professor Peter](https://github.com/Kartikeya-trivedi/professorpeter) &nbsp;🏆
+**AI video educator** — *hackathon-winning project.*
+FastAPI orchestrating FFmpeg lip-sync with ElevenLabs TTS narration to generate explainer videos.
+
+<sub>`Python` · `FastAPI` · `FFmpeg` · `ElevenLabs TTS`</sub>
+
+</td>
+</tr>
 </table>
 
 <details>
@@ -203,7 +222,6 @@ LLM script segmentation → Stable Diffusion image prompts → Kokoro TTS → FF
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| [**MediQuery**](https://github.com/Kartikeya-trivedi/MediQuery) | Medical query application | `TypeScript` |
 | [**bizman**](https://github.com/Kartikeya-trivedi/bizman) | Business / automation tooling | `Python` |
 | [**lenai**](https://github.com/Kartikeya-trivedi/lenai) | Applied LLM application | `Python` |
 | [**ai_interviewer**](https://github.com/Kartikeya-trivedi/ai_interviewer) | AI-driven mock interviewer | `Python` |
